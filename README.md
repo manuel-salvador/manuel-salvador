@@ -1,5 +1,5 @@
-<h3 align="center">¡Hey 👋! I'm Manuel Salvador 😃</h3>
-<h4 align="center">Full Stack Developer</h4>
+<h2 align="center">¡Hey 👋! I'm Manuel Salvador 😃</h2>
+<h3 align="center">Full Stack Developer</h3>
 <br>
 
 💻 I focus on web development with JavaScript.
