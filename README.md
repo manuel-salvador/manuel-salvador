@@ -38,5 +38,5 @@
 </p>
 
 ## Contact
-Email: <manu.sacr@hotmail.com>  
-Linkedin: [/manuel-salvador](https://www.linkedin.com/in/manuel-salvador/)
+Email: <a href="mailto:manu.sacr@hotmail.com" target="_blank">manu.sacr@hotmail.com</a>  
+Linkedin: <a href="https://www.linkedin.com/in/manuel-salvador/" target="_blank">/manuel-salvador</a>
