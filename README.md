@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=ffffff" alt="GitLab">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-salvador&hide=EJS&layout=compact&bg_color=35,023f77,011e38&text_color=ffffff&title_color=ffffff&hide_border=true)
 ## Contact
 Email: <a href="mailto:manu.sacr@hotmail.com" target="_blank">manu.sacr@hotmail.com</a>  
 Linkedin: <a href="https://www.linkedin.com/in/manuel-salvador/" target="_blank">/manuel-salvador</a>
