@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <br>
 
-💻 I focus on web development with JavaScript.
+💻 I focus on web development with JavaScript and TypeScript.
 
 🤙 Self-taught.
 
